@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 <h1 align="center">🍀Sudibyo Sinha🍀</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🌱 I’m currently learning **Kubernetes and Rust**
+- 🌱 I’m currently learning **Web Development**
 
 - 🤝 I’m looking for Projects in **Web Development**
 
-- 💬 Ask me about **Javascript, Node.js, Express, MongoDB, Networking**
+- 💬 Ask me about **HTML, CSS**
 
 - 📫 How to reach me : **sudibyosinha26@gmail.com**
 
