@@ -26,12 +26,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact : **I'm bad at LeetCode**
 
-<div align="center">
-  <a href="https://github.com/ScalarJerk">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <!-- -  📜 Resume : [Click Here](https://drive.google.com/file/d/1AhF3HOMqF_SeKh5kY9JkA3E-y3Z6hWN_/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
