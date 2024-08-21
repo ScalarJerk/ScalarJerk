@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">I'm bad at LeetCode</h3>
 
-📫 How to reach me : **sudibyosinha@gmail.com**
+📫 How to reach me : **sudibyosinha26@gmail.com**
 
 <!--- 🌱 I’m currently learning **Web Development**
 
