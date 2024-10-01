@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-<h1 align="center">🍀Sudibyo Sinha🍀</h1>
+<h1 align="center">Sudibyo Sinha🍀</h1>
 
-<h3 align="center">I'm bad at LeetCode</h3>
+<h3 align="center">Quant Finance</h3>
 
 📫 How to reach me : **sudibyosinha26@gmail.com**
 
-<!--- 🌱 I’m currently learning **Web Development**
-
+🌱 I’m currently learning **Data Science and ML**
+<!---
 - 🤝 I’m looking for Projects in **Web Development**
 
 - 💬 Ask me about **HTML, CSS**
