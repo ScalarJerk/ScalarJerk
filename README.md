@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 📫 How to reach me : **sudibyosinha26@gmail.com**
 
 🌱 I’m currently learning **Data Science and ML**
+
+📖 Resources I'm using: [Python for Finance](https://www.sea-stat.com/wp-content/uploads/2021/05/Yves-Hilpisch-Python-for-Finance_-Mastering-Data-Driven-Finance-Book-OReilly-2018.pdf) and [supplementary code](https://github.com/yhilpisch/py4fi2nd)
 <!---
 - 🤝 I’m looking for Projects in **Web Development**
 
