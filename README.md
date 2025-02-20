@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">wannabe starting something</h3>
 
-📫 How to reach me : **sudibyosinha26@gmail.com**
+📫 How to reach me : **sudibyosinha.work@gmail.com**
 
 🌱 I’m currently learning about **Microservices**
 <!---
